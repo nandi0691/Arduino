@@ -1,0 +1,1 @@
+APT to get Weather : https://api.openweathermap.org/data/2.5/weather?q=Mumbai,in&APPID=f9b05e09e5091e760e7b21ad924ec805
